@@ -1,6 +1,8 @@
 {
   "name": "laravel-u/model-info",
+  "type": "library",
   "description": "update model info",
+  "homepage": "https://github.com/cdg228914/updatemodelinfo",
   "authors": [
     {
       "name": "cdg",
