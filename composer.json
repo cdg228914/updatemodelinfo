@@ -1,0 +1,19 @@
+{
+  "name": "updatemodelinfo",
+  "description": "update model info",
+  "authors": [
+    {
+      "name": "cdg",
+      "email": "422405849@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "version": "1.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cdg\\": "src/"
+    }
+  }
+}
