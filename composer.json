@@ -3,6 +3,7 @@
   "type": "library",
   "description": "update model info",
   "homepage": "https://github.com/cdg228914/updatemodelinfo",
+  "license": "MIT",
   "authors": [
     {
       "name": "cdg",
@@ -10,7 +11,7 @@
     }
   ],
   "require": {
-    "php": ">=7.4",
+    "php": "^7.4",
     "version": "^1.0.0"
   },
   "autoload": {
